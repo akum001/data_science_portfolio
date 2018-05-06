@@ -17,3 +17,4 @@ Tools:
 
    * ## Machine Learning
      - [Titanic disaster - prediction](https://github.com/akum001/data_science_portfolio/blob/master/Titanic_classification.ipynb): Data Analysis, feature engineering, detecting outliers in the features and resolving them, analysis of finding good features by finding relationship between columns and visualizing them with different kind of plots. Applying machine learning binary models Logistic Regression and Support Vector Machine to fit our data set and predict on test data set that our model hasn't seen yet.
+     - [Spam classifier](https://github.com/akum001/data_science_portfolio/blob/master/Spam_Classification.ipynb): Spam classification using one of the famous UCI datasets. I have used Naive bayes classifier to train my model using scikit pipeline technique. 
